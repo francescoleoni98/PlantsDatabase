@@ -45,8 +45,10 @@ The complete list of information for each plant is the following (this list may 
    - image
    - description
 
+## Website exemple
+![website](https://raw.githubusercontent.com/francescoleoni98/PlantsDatabase/main/Images/website_sample.png)
 
-# **Guidelines**
+# **Contributing guidelines**
 If you want to contribute to PlantsDatabase and make it better, your help is always appreciated.
 
 ## **To make a good pull request**
