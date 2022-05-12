@@ -1,0 +1,68 @@
+{
+    "plantId": "1",
+    "slug": "syngonium",
+    "name": "Syngonium",
+    "image": "../images/syngonium_1.jpg",
+
+    "navInfo": {
+        "posizione": "Da interno",
+        "luce": "Poca luce",
+        "temperatura": "15° - 32°",
+        "annaffiatura": "1 - 2 settimane",
+        "rinvaso": "Ogni anno"
+    },
+
+    "classificazione": "**Regno:** Plantae \n **Clado:** Angiosperme \n **Ordine:** Alismatales \n **Famiglia:** Araceae \n **Genere:** Syngonium",
+
+    "caratteristiche": "Il genere Syngonium è originario del centro e del sud America. Il suo nome deriva da due parole greche syn «con, assieme» e goné «ovari» per alludere al fatto che gli ovari sono uniti.\n\nÈ una bellissima pianta, molto coltivata per il suo fogliame decorativo che sviluppa radici aeree e foglie che da giovani sono piccole e sagittate mentre da adulte diventano grandi, divise in tre lobi con un picciolo guainante alla base e nervature di colore verde.",
+
+    "temperatura": {
+        "estate_min": 20,
+        "estate_max": 32,
+        "inverno_min": 15,
+        "inverno_max": 18
+    },
+
+    "posizione": {
+        "testo": "Sono piante molto utilizzate in appartamento data la loro adattabilità ad ambienti poco luminosi e secchi.",
+        "interno_min": 4,
+        "interno_max": 9,
+        "esterno_min": 1,
+        "esterno_max": 12    
+    },
+  
+    "ciclo": {
+        "vegetazione_min": 4,
+        "vegetazione_max": 8,
+        "dormienza_min": 3,
+        "dormienza_max": 7
+    },
+
+    "fioritura": "Il Syngonium produce delle infiorescenze tipiche della famiglia delle Araceae (stessa famiglia della calla), a spadice. Quello che noi chiamiamo fiore vale a dire la parte colorata a forma di imbuto che tanto apprezziamo, in realtà sono delle brattee cioè delle foglie modificate che avvolgono i fiori e le infiorescenze per proteggerli e sono chiamate SPATA (bianca, panna, rosa, ecc) allargate verso l'estremità e terminanti con una punta incurvata verso il basso. Il fiore (l'infiorescenza) è in realtà quella specie di asta che vediamo al centro della spata ed è chiamato SPADICE che porta nella parte alta i fiori maschili e nella parte bassa i fiori femminili (a lato foto di infiorescenza di Syngonium auritum).\n\nQueste infiorescenze, difficilmente compaiono in coltivazione.",
+    "annaffiatura": "Il Syngonium ha necessità di abbondanti annaffiature pertanto durante tutto il **periodo primaverile** ed estivo il terriccio deve essere costantemente umido. Viceversa durante il **periodo autunno-invernale** si annaffia il tanto necessario a non far seccare il terriccio.\n\nDisporre i vasi su uno strato di ghiaia bagnata (facendo in modo che il fondo del vaso non sia a contatto con l'acqua).\n\nAttenzione a non lasciare che l'acqua ristagni in quanto è una pianta molto sensibile ai marciumi radicali.",
+    "nebulizzazione": "Nei periodi più caldi, pertanto è opportuno oltre che nebulizzare regolarmente le foglie con acqua.",
+    
+    "rinvaso": {
+        "testo": "Il Syngonium si rinvasa ogni anno all'inizio della primavera.\n\nSi utilizza un vaso di dimensioni leggermente più grandi del precedente. Quando si raggiunge la dimensione del vaso di 30 cm di diametro, allora ogni anno anzichè rinvasare, si asportano i primi centimetri di terriccio (2-3 cm) e si sostituiscono con del terriccio nuovo.\n\nE' fondamentale assicurare un buon drenaggio a tal scopo ponete sul fondo del vaso dei pezzetti di coccio che favoriscono lo sgrondo delle acque in eccesso.\n\nRaccomando sempre di usare dei vasi di terracotta che favoriscono la respirazione della terra.",
+        "min": 3,
+        "max": 6
+    },
+  
+    "terreno": "Si utilizza un terriccio fertile, costituito per metà da terriccio di foglie e l'altra metà da torba con l'aggiunta di un po' di sabbia grossolana per favorire il drenaggio dell'acqua.",
+    "concimazione": "Come per le annaffiature, anche le concimazioni devono essere costanti.\n\nDurante tutto il periodo primaverile ed estivo, bisogna concimare una volta al mese con un concime liquido somministrato assieme all'acqua di irrigazione.\n\nPer quanto riguarda il tipo di concime da somministrare, in commercio ne esistono di tanti tipi ma è buona norma leggere l'etichetta che specifica la composizione. Per tutte le piante verdi, vale a dire per quelle piante che sviluppano molte foglie, è preferibile usare concimi che abbiamo un titolo abbastanza elevato in azoto (N) che favorisce appunto lo sviluppo delle parti verdi. Accertatevi pertanto che oltre ad avere i cosiddetti macroelementi quali azoto (N), fosforo (P) e potassio (K) e che tra questi l'azoto sia in maggiore quantità che abbia anche i microelementi quali il ferro (Fe), il manganese (Mn), il rame (Cu), lo zinco (Zn), il boro (B), il molibdeno (Mo), tutti importanti per una corretta ed equilibrata crescita della pianta.\n\nNel caso del Syngonium è opportuno dimezzare le dosi rispetto a quanto riportato sulla confezione.",
+    "potatura": "Di solito il Syngonium non si pota. Vanno semplicemente eliminate le foglie che via via disseccano per evitare che diventino veicolo di malattie parassitarie. Si possono tagliare, al momento del rinvaso, i rami troppo sviluppati se si vuole dare alla pianta un aspetto più uniforme e compatto.\n\nAbbiate cura che l'attrezzo che usate per il taglio sia pulito e disinfettato (preferibilmente alla fiamma) per evitare di infettare i tessuti.",
+    "moltiplicazione": "La moltiplicazione del Syngonium avviene tagliando delle talee dagli steli.\n\nIn primavera - estate si prelevano le cime dei fusti lunghe dai 15 ai 20 cm, tagliate al di sotto del nodo. Utilizzate un coltello affilato per evitare la sfilacciatura dei tessuti, pulito e disinfettato. Si rimuovono le foglie più basse e si tratta la base del fusto tagliato, con ormoni che favoriscano la radicazione (si trovano da un buon vivaista) e si interrano in una composta formata da due parti di torba e una di sabbia fine.\n\nSi infila la talea fino all'altezza delle foglie tagliate, sostenendola con un fil di ferro e si compatta delicatamente la terra intorno. Si pone il vaso in una zona non troppo luminosa e dove è possibile avere una temperatura costante di circa 21°C. Si chiude il vaso (diametro massimo 7 cm) con della plastica trasparente per garantire calore e umidità. Usate dei bastoncini che sistemerete nel terriccio per tenere la plastica lontana dalla talea. Ogni giorno aprite l'involucro e controllate il grado di umidità del terriccio e fate un modo che sia sempre umido ed eliminate eventuale condensa che si è addensata nella plastica.\n\nQuando inizieranno a comparire i nuovi germogli, di solito dopo 5/6 settimane, vuol dire che la talea ha radicato. A quel punto si toglie la plastica e si annaffiano regolarmente per tenere umida la terra. Dopo circa un mesetto dal momento in cui avete tolto la plastica, iniziate a somministrare anche un po' di concime con l'acqua di irrigazione così come descritto al paragrafo 'concimazioni'. In seguito potete togliere le giovani piantine dal vaso di radicazione e trapiantarle a gruppi di due o tre nel vaso definitivo trattatele pertanto come le piante adulte.",
+    "parassiti": "**Caduta delle foglie - foglie gialle/marronit - steli e foglie molli**\nSenza altre patologie apparenti può essere provocata o da un ambiente troppo secco o da scarse annaffiature o da colpi d'aria fredda.\n\n**Rimedi:** comportarsi di conseguenza per eliminare le cause.",
+    "specie": [
+        {
+            "nome": "Ficus",
+            "immagine": "../images/syngonium_3.jpg",
+            "descrizione": "Si utilizza un terriccio fertile, costituito per metà da terriccio di foglie e l'altra metà da torba"
+        },
+        {
+            "nome": "Ficus2",
+            "immagine": "../images/syngonium_3.jpg",
+            "descrizione": "Si utilizza un terriccio fertile, costituito per metà da terriccio di foglie e l'altra metà da torba"
+        }
+    ]
+}
